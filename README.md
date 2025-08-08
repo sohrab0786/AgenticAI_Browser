@@ -1,11 +1,4 @@
-<img src="./assets/web-ui.png" alt="Browser Use Web UI" width="full"/>
 
-<br/>
-
-[![GitHub stars](https://img.shields.io/github/stars/browser-use/web-ui?style=social)](https://github.com/browser-use/web-ui/stargazers)
-[![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://link.browser-use.com/discord)
-[![Documentation](https://img.shields.io/badge/Documentation-📕-blue)](https://docs.browser-use.com)
-[![WarmShao](https://img.shields.io/twitter/follow/warmshao?style=social)](https://x.com/warmshao)
 
 This project builds upon the foundation of the [browser-use](https://github.com/browser-use/browser-use), which is designed to make websites accessible for AI agents.
 
@@ -29,8 +22,8 @@ Read the [quickstart guide](https://docs.browser-use.com/quickstart#prepare-the-
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/browser-use/web-ui.git
-cd web-ui
+git clone https://github.com/sohrab0786/AgenticAI_Browser.git
+cd AgenticAI_Browser
 ```
 
 #### Step 2: Set Up Python Environment
