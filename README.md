@@ -105,8 +105,8 @@ cp .env.example .env
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/browser-use/web-ui.git
-cd web-ui
+git clone https://github.com/sohrab0786/AgenticAI_Browser.git
+cd AgenticAI_Browser
 ```
 
 #### Step 2: Configure Environment
